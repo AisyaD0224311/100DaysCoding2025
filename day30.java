@@ -7,7 +7,8 @@ public class day30 {
         Scanner aa = new Scanner(System.in);
         int a = aa.nextInt();
         int b = aa.nextInt();
-        System.out.println("Apakah " + a + " lebihh besar atau sama dengan " + " ? " + (a >= b));
-        System.out.println("Apakah " + a + " lebihh kecil atau sama dengan " + " ? " + (a <= b));
+        System.out.println("Apakah " + a + " lebihh besar atau sama dengan " + b + " ? " + (a >= b));
+        System.out.println("Apakah " + a + " lebihh kecil atau sama dengan " + b + " ? " + (a <= b));
     }
 }
+
