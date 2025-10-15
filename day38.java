@@ -8,10 +8,11 @@ public class day38 {
         int a = aa.nextInt();
         if(a == 0){
             System.out.println("Nol");
-        }else if(a <= 0){
+        }else if(a < 0){
             System.out.println("Negatif");
         }else{
             System.out.println("Positif");
         }
     }
 }
+
