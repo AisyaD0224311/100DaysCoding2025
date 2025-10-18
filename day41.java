@@ -1,4 +1,4 @@
-package evaluasimentor02;
+package pkg100dayscoding2025;
 import java.util.Scanner;
 public class day41 {
     public static void main(String[] args) {
@@ -15,5 +15,6 @@ public class day41 {
         }
     }
 }
+
 
 
