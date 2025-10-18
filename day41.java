@@ -1,4 +1,5 @@
 package pkg100dayscoding2025;
+import java.util.Scanner;
 public class day41 {
     public static void main(String[] args) {
         Scanner aa =  new Scanner(System.in);
@@ -12,4 +13,5 @@ public class day41 {
         System.out.println("Gaji bersih yang diterima : Rp" + total);
     }
 }
+
 
