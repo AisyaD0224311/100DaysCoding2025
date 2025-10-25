@@ -1,6 +1,6 @@
 package pkg100dayscoding2025;
 import java.util.Scanner;
-public class myClass {
+public class day48 {
   public static void main(String []args) {
     Scanner aa = new Scanner(System.in);
     double a1, a2;
