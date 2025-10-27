@@ -2,7 +2,7 @@ package pkg100dayscoding2025;
 
 import java.util.Scanner;
 
-public class day48 {
+public class day49 {
     public static void main(String[] args) {
         Scanner aa = new Scanner(System.in);
         int angka = aa.nextInt();
