@@ -12,7 +12,7 @@ public class day63 {
             t *= i;
             System.out.print(i);
             if(i < N){
-                System.out.print(" x ");
+                System.out.print(" * ");
             }
         }
         System.out.println(" = " + t);
