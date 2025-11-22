@@ -1,5 +1,5 @@
 package pkg100dayscoding2025;
-public class day75 {
+public class day76 {
     public static void main(String[] args) {
         String a = "Halo JW";
         String b = "halo jw";
