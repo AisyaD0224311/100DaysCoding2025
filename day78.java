@@ -9,7 +9,7 @@ public class day78 {
         String nama = aa.nextLine();
         System.out.print("Masukkan Kode Negara (JP/KR/US/IND/SG) : ");
         String kn = aa.nextLine();
-        System.out.print("Masukkan Kode Tambahan (boleh kosong) : ");
+        System.out.print("Masukkan Catatan Tambahan (boleh kosong) : ");
         String cttn = aa.nextLine();
         if (nama.isBlank()) {
             System.err.println("Error: Nama tidak boleh kosong!");
@@ -69,3 +69,4 @@ public class day78 {
 
     }
 }
+
