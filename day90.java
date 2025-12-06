@@ -8,7 +8,7 @@ public class day90 {
     }
 
     public static void main(String[] args) {
-        day89 tes = new day89();
+        day90 tes = new day90();
         int output = tes.tambah();
         System.out.println(output);
     }
