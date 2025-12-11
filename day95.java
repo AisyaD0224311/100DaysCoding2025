@@ -6,6 +6,6 @@ public class day95 {
 
     public static void main(String[] args) {
         day95 tes = new day95();
-        tes.bio("Aisya", "18");
+        tes.bio("Aisya", 18);
     }
 }
